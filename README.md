@@ -15,7 +15,6 @@ npm run serve
 npm run build
 ```
 
-Test jenkins
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
